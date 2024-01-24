@@ -54,3 +54,10 @@ Generación de Texto Creativo: Se pueden crear textos creativos, como historias,
 Conversación y Asistentes Virtuales: Los modelos generativos también pueden usarse en asistentes virtuales para producir respuestas contextuales y naturalmente fluidas en conversaciones con usuarios. Esto mejora la capacidad de los sistemas para comprender preguntas y dar respuestas coherentes.
 
 Traducción Automática: En las tareas de traducción automática, los modelos generativos son útiles porque pueden producir traducciones precisas y contextualmente relevantes para mejorar la comunicación entre varios idiomas.
+### Pregunta_4
+1. La capacidad del Modelo para ser interpretado:
+
+La capacidad de comprender y explicar cómo toma decisiones un modelo de aprendizaje automático se conoce como interpretabilidad. Este problema es particularmente importante en entornos donde la transparencia y la justificación son necesarias, como en el ámbito médico, legal o financiero. 
+2. Continuo mantenimiento y actualización:
+
+Los modelos de aprendizaje automático no son estáticos y, debido a cambios en los datos de entrada o a la deriva en la distribución de datos, pueden perder precisión con el tiempo. 
